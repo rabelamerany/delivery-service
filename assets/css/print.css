@@ -1,0 +1,150 @@
+.clearfix {
+  content: "";
+  clear: both;
+  /*margin-bottom: 10px;*/
+  display: block;
+}
+
+@page {
+  size: A4;
+}
+
+/*@page {
+  size: 21cm 29.7cm;
+  margin: 5mm 10mm;
+}
+*/
+body {
+  /*position: relative;*/
+  /*width: 210mm;*/
+  /*height: 297mm;*/
+  /*margin: 2mm 4mm;*/
+  color: #001028;
+  background: #FFFFFF; 
+  font-family: Arial, sans-serif; 
+  font-size: 12px; 
+  font-family: Arial;
+}
+
+header {
+  position: relative;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+
+.logo {
+  /*background-color: #2A3F54;*/
+}
+
+.logo img {
+  width: 50px;
+  margin-bottom: 5px;
+}
+
+.logo span {
+  padding-bottom: 10px;
+  color: #fff;
+  text-align: center;
+  vertical-align: top;
+}
+
+h1 {
+  border-top: 1px solid  #5D6975;
+  border-bottom: 1px solid  #5D6975;
+  color: #5D6975;
+  font-size: 2.4em;
+  line-height: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  /*margin: 0 0 20px 0;*/
+  background: url(../images/dimension.png);
+}
+
+#company {
+/*  float: left;*/
+  /*position: relative;*/
+  display: inline-block;
+  width: 25%;
+  margin-right: 45%;
+}
+
+#customer {
+  /*position: relative;*/
+  margin-top: 50px;
+  display: inline-block;
+  width: 25%;
+}
+
+#customer, #company {
+  white-space: nowrap;   
+  line-break: auto;
+  word-break: break-all;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+
+table tr:nth-child(2n-1) td {
+  background: #F5F5F5;
+}
+
+table th,
+table td {
+  text-align: center;
+}
+
+table th {
+  padding: 5px 20px;
+  color: #5D6975;
+  border-bottom: 2px solid black;
+  white-space: nowrap;        
+  font-weight: normal;
+}
+
+table .service,
+table .desc {
+  text-align: left;
+}
+
+table td {
+  padding: 10px;
+  text-align: right;
+  border-bottom: 1px solid #C1CED9;
+}
+
+table td.desc {
+  vertical-align: top;
+  width: 50% !important;
+}
+
+table td.unit,
+table td.qty,
+table td.total {
+  font-size: 1.2em;
+}
+
+table td.grand {
+  border-top: 1px solid #5D6975;;
+}
+
+#notices .notice {
+  color: #5D6975;
+  font-size: 1.2em;
+}
+
+a {
+  color: #5D6975;
+  text-decoration: underline;
+}
+
+footer {
+  color: #5D6975;
+  width: 100%;
+  border-top: 1px solid #C1CED9;
+  padding: 8px 0;
+  text-align: center;
+}

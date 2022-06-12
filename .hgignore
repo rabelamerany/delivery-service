@@ -1,0 +1,19 @@
+syntax: glob
+
+push.php
+push_batch_*
+application/config/database.php
+application/config/config.php
+application/cache/ci_session*
+assets/pdfs/*
+application/libraries/dompdf/lib/fonts/log.htm*
+application/logs/log-*
+.idea
+*.sql
+CI_phpStorm.php
+docker/
+docker-compose.yml
+VERSION
+*/.DS_Store
+.DS_Store
+_MACOSX
