@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/RababElAmerany94/delivery-service">
-<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/delivery-service/blob/master/assets/images/site.PNG" />
+<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" />
 </a>
 </p>
 
