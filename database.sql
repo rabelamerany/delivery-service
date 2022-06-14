@@ -343,7 +343,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `password`, `first_name`, `last_name`, `email`, `phone_number`, `phone_number2`, `address`, `city`, `zipcode`, `last_login`, `last_login_ip`, `role`) VALUES
-(13, 'admin', 'c3284d0f94606de1fd2af172aba15bf3|2|e86cebe1', 'Admin', 'Admin', 'admin@test.ma', '+21200000000', '', '', '', '', '2021-06-07 11:56:32', '91.132.177.145', 'Admin'),
+(13, 'admin', 'c3284d0f94606de1fd2af172aba15bf3|2|e86cebe1', 'Admin', 'Admin', 'admin@test.ma', '+21200000000', '', '', '', '', '2021-06-07 11:56:32', '91.132.177.145', 'Admin');
 
 --
 -- Indexes for dumped tables
