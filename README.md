@@ -46,7 +46,7 @@ You can instruct your audience on installing and setting up your app
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RababElAmerany94/building-management
+   git clone https://github.com/RababElAmerany94/delivery-service
    ```
 3. Create database.php in application/config
    ```database.php
