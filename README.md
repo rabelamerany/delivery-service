@@ -3,8 +3,8 @@
 # Delivery Service
 
 <p align="center">
-<a href="https://github.com/RababElAmerany94/delivery-service">
-<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" />
+<a href="https://github.com/rabelamerany/delivery-service">
+<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/rabelamerany/delivery-service/blob/main/assets/images/site.PNG" />
 </a>
 </p>
 
@@ -46,7 +46,7 @@ You can instruct your audience on installing and setting up your app
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RababElAmerany94/delivery-service
+   git clone https://github.com/rabelamerany/delivery-service
    ```
 3. Create database.php in application/config
    ```database.php
@@ -68,7 +68,7 @@ You can instruct your audience on installing and setting up your app
 
 Rabab El Amerany - rab.el.amerany@gmail.com
 
-Project Link: [https://github.com/RababElAmerany94/delivery-service](https://github.com/RababElAmerany94/delivery-service)
+Project Link: [https://github.com/rabelamerany/delivery-service](https://github.com/rabelamerany/delivery-service)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
