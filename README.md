@@ -52,13 +52,13 @@ You can instruct your audience on installing and setting up your app
    ```database.php
    example : 'database' => 'test', 'hostname' => 'localhost', 'username' => 'root' .....
    ```
-4. Create database in your local in database.sql in master repository
+4. Create database in your local database server like in database.sql in master repository
    ```localhost
    CREATE DATABASE
    ```
-5. Login : admin , password : admin
+5. Go to Web url "localhost/delivert-service"
    ```localhost
-   CREATE DATABASE
+   Login : admin , password : admin
    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
