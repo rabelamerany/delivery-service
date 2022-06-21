@@ -56,7 +56,7 @@ You can instruct your audience on installing and setting up your app
    ```localhost
    CREATE DATABASE
    ```
-5. Go to Web url "localhost/delivert-service"
+5. Go to Web url "localhost/delivery-service"
    ```localhost
    Login : admin , password : admin
    ```
